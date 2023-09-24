@@ -1,0 +1,22 @@
+{
+  "name": "@dreusel/xtds-cors-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dreusel/xtds-proxy.git"
+  },
+  "author": "Daniel Reus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreusel/xtds-proxy/issues"
+  },
+  "homepage": "https://github.com/dreusel/xtds-proxy#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
